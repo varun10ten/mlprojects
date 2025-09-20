@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mlprojects
+Version: 0.0.1
+Author: Varun
+Author-email: varunchoudhary0212@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
